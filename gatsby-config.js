@@ -10,7 +10,7 @@ try {
 } catch (e) {
     ghostConfig = {
         production: {
-            apiUrl: `https://victorpiella.netlify.app`,
+            apiUrl: `https://victorpiella.netlify.app/`,
             contentApiKey: `9cc5c67c358edfdd81455149d0`,
         },
     }
